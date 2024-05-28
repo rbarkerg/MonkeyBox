@@ -23,10 +23,11 @@
   height: 100px;
   padding: 0px 150px 0px 150px;
   color: #000;
-  position: absolute;
+  position: fixed;
   top: 0;
   left: 0;
   right: 0;
+  bottom: 0;
 }
 
 .logoContainer {
@@ -66,7 +67,7 @@
 
 .orangeCard {
   background: #e99b42;
-  padding: 10px 200px 100px 200px;
+  padding: 100px 200px 100px 200px;
   color: #fff;
   text-align: center;
 }
